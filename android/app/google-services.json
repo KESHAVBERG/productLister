@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "200103293491",
+    "firebase_url": "https://create-def73.firebaseio.com",
+    "project_id": "create-def73",
+    "storage_bucket": "create-def73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200103293491:android:71c783699677b6d4472946",
+        "android_client_info": {
+          "package_name": "com.iinc.dictonary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200103293491-fl8maecp5mq0vsk65t1p2r31nvmn396r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTJ84EPTDh4jzaNf0BNjl2TKrHoCXRP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200103293491-fl8maecp5mq0vsk65t1p2r31nvmn396r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200103293491:android:1c104cab43115325472946",
+        "android_client_info": {
+          "package_name": "com.iinc.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200103293491-fl8maecp5mq0vsk65t1p2r31nvmn396r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTJ84EPTDh4jzaNf0BNjl2TKrHoCXRP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200103293491-fl8maecp5mq0vsk65t1p2r31nvmn396r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200103293491:android:b18811113164d82b472946",
+        "android_client_info": {
+          "package_name": "com.iinc.notemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200103293491-fl8maecp5mq0vsk65t1p2r31nvmn396r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTJ84EPTDh4jzaNf0BNjl2TKrHoCXRP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200103293491-fl8maecp5mq0vsk65t1p2r31nvmn396r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
